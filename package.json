@@ -1,0 +1,9 @@
+{
+    "name":"punbot",
+    "version":"0.0.1",
+    "main":"punbot.js",
+    "dependencies": {
+	"botkit":"0.2.1",
+	"dotenv":"2.0.0"
+    }
+}
